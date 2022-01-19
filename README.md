@@ -1,5 +1,6 @@
 # Java Project
 Final Project for Java Optional. Project is using Spring Web, JPA, Mockito, SQL. The project implements a system to manage multiple musicians groups.
+The project also contains the postman collection, with some documentation.
 
 
 # The Database Schema
